@@ -16,7 +16,7 @@ To get started with *Souls of the Forgotten*, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/souls-of-the-forgotten.git
+   git clone https://github.com/jon-jc/soulslikeplatformer-godot
    ```
 2. Open Godot Engine and import the project.
 3. Navigate to the project directory and open the project in Godot.
